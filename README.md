@@ -1,0 +1,1 @@
+Automatización en Google Apps Script que intercepta notificaciones de transacciones (SMS/Wompi/Bancolombia) y correos de Gmail, registra los datos en Google Sheets y envía una alerta interactiva a Telegram para categorizar el gasto con un clic. Incluye detección inteligente de duplicados y limpieza automática.
